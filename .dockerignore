@@ -1,0 +1,9 @@
+/public/images
+/storage/*.key
+/vendor
+.phpunit.result.cache
+*.tar.gz
+*.tar
+/.scannerwork
+/data
+/logs
